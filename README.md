@@ -1,4 +1,4 @@
-# BNASv2
+# BNAS-v2: Memory-efficient and Performance-collapse-prevented Broad Neural Architecture Search
 Authors' implementation of "BNAS-v2: Memory-efficient and Performance-collapse-prevented Broad Neural Architecture Search" (2022) in Pytorch.
 Includes code for CIFAR-10 and ImageNet image classification.
 
